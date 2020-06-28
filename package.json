@@ -8,11 +8,15 @@
     "eject": "expo eject"
   },
   "dependencies": {
+    "axios": "^0.19.2",
     "expo": "~38.0.1",
     "expo-status-bar": "^1.0.0",
+    "firebase": "^7.15.5",
     "react": "~16.11.0",
     "react-dom": "~16.11.0",
     "react-native": "https://github.com/expo/react-native/archive/sdk-38.0.0.tar.gz",
+    "react-native-elements": "^2.0.2",
+    "react-native-vector-icons": "^6.6.0",
     "react-native-web": "~0.11.7"
   },
   "devDependencies": {
